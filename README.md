@@ -6,7 +6,8 @@ Polyvore Outﬁts is a real-world dataset created based on users’ preferences 
 
 # File description
        dataloader.py: Data preprocessing and loading.
-       model.py: MobileNetV2 and a finetuned model
+       model.py: fine tuned MobileNetV2 model
+       custom_model.py: CNN model built from scartch
        utils.py: hyperparameters and file paths
 
 # To install the complete list of dependencies, run:
